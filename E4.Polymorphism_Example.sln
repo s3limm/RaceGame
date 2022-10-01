@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E4.Polymorphism_Example", "E4.Polymorphism_Example\E4.Polymorphism_Example.csproj", "{90C3E2F6-61C9-403C-8B3D-39E6D5639913}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Race_Game", "E4.Polymorphism_Example\Race_Game.csproj", "{90C3E2F6-61C9-403C-8B3D-39E6D5639913}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
