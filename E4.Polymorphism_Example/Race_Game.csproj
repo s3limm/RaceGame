@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{90C3E2F6-61C9-403C-8B3D-39E6D5639913}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>E4.Polymorphism_Example</RootNamespace>
-    <AssemblyName>E4.Polymorphism_Example</AssemblyName>
+    <RootNamespace>Race_Game</RootNamespace>
+    <AssemblyName>Race_Game</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -69,6 +69,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
